@@ -2,7 +2,7 @@
 
 import places from "@/public/data/places.json";
 import { IPlace } from "@/types/interfaces/i-place";
-import { Card, CardHeader, CardBody, CardFooter, Image, Button } from "@heroui/react";
+import { Card, CardHeader, CardBody, CardFooter, Button } from "@heroui/react";
 import { ChevronLeft, MapPinned } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { use } from "react";
@@ -11,7 +11,7 @@ interface PlacePageProps {
     params: Promise<{ id: string }>;
 }
 
-export default async function PlacePage({ params }: PlacePageProps) {
+export default function PlacePage({ params }: PlacePageProps) {
     const router = useRouter();
     const { id } = use(params);
 
@@ -31,8 +31,8 @@ export default async function PlacePage({ params }: PlacePageProps) {
                 Усі місця
             </Button>
             <Card radius="lg" isPressable={false} className="border-none shadow-md">
-                <CardHeader className="p-0">
-                    <Image src={place.images?.[0].url} alt={place.images?.[0].alt} className="w-full h-64 object-cover rounded-t-lg" />
+                <CardHeader className="p-0 w-full">
+                    <img src={place.images?.[0].url} alt={place.images?.[0].alt} height={256} className="w-full" />
                 </CardHeader>
                 <CardBody>
                     <h1 className="text-2xl font-bold mb-2">{place.name}</h1>
