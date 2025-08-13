@@ -31,7 +31,7 @@ export default function InterestingPlaces({ places }: InterestingPlaceProps) {
             )}
 
             {places.slice(0, 4).map((place) => (
-                <UICard key={place.name} place={place} />
+                <UICard key={place.name} place={place} location={location} />
             ))}
         </div>
     );

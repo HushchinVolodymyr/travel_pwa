@@ -1,6 +1,7 @@
 "use client";
 
 import { IPlace } from "@/types/interfaces/i-place";
+import getLocationLink from "@/utils/getLocationLink";
 import { Card, CardFooter, Image, Button, CardHeader, CardBody } from "@heroui/react";
 import { MapPinned } from "lucide-react";
 import { useRouter } from "next/navigation";
@@ -8,11 +9,12 @@ import { use, useEffect } from "react";
 
 interface UICardProps {
     place: IPlace;
+    location: any;
 }
 
-function UICard({ place }: UICardProps) {
+function UICard({ place, location }: UICardProps) {
     const router = useRouter();
-    
+
 
     return (
         <Card isFooterBlurred isPressable onPress={() => router.push(`/place/${place.name}`)} className="border-none" radius="lg">
@@ -30,6 +32,9 @@ function UICard({ place }: UICardProps) {
                     radius="lg"
                     size="sm"
                     variant="flat"
+                    onPress={() => {
+                        window.open(place.location, "_blank");
+                    }}
                 >
                     <MapPinned className="w-4 h-4" />
                     Маршрут

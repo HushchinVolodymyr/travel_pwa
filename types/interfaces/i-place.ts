@@ -6,4 +6,5 @@ export interface IPlace {
         url: string;
         alt: string;
     }[];
+    location?: any;
 }
