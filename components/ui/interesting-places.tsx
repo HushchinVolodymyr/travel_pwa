@@ -2,8 +2,9 @@
 
 import { IPlace } from "@/types/interfaces/i-place";
 import UICard from "./UICard";
-import { useEffect } from "react";
-import useGeolocation from "@/hooks/useGeolocation";
+import { Button } from "@heroui/button";
+import { MapPinned } from "lucide-react";
+import { useRouter } from "next/navigation";
 
 
 interface InterestingPlaceProps {
@@ -11,28 +12,28 @@ interface InterestingPlaceProps {
 }
 
 export default function InterestingPlaces({ places }: InterestingPlaceProps) {
-    const location = useGeolocation();
-
-    useEffect(() => {
-        if (location) {
-            console.log("Current location:", location);
-        }
-    }, [location]);
+    const router = useRouter();
+    const randomPlaces = [...places] 
+        .sort(() => Math.random() - 0.5) 
+        .slice(0, 4);
 
     return (
-        <div className="grid grid-cols-2 gap-4">
-            {location && (
-                <div className="p-4">
+        <div>
+            <Button
+                size="lg"
+                className="w-full"
+                startContent={<MapPinned className="w-4 h-4" />}
+                onPress={() => router.push("/places")}
+            >
+                Усі місця
+            </Button>
 
-                    <p>
-                        Your location: {location.location?.lat}, {location.location?.lng}
-                    </p>
-                </div>
-            )}
+            <div className="grid grid-cols-2 gap-4 mt-4">
+                {randomPlaces.slice(0, 4).map((place) => (
+                    <UICard key={place.name} place={place}/>
+                ))}
+            </div>
+        </div >
 
-            {places.slice(0, 4).map((place) => (
-                <UICard key={place.name} place={place} location={location} />
-            ))}
-        </div>
     );
 }

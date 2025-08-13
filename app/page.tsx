@@ -1,4 +1,4 @@
-import FindNewPlaces from "@/components/ui/find-new-places";
+
 import InterestingPlaces from "@/components/ui/interesting-places";
 import WeatherCard from "@/components/ui/weather-card";
 import places from "@/public/data/places.json";
@@ -17,12 +17,12 @@ export default function Home() {
           </span>
         </h1>
       </div>
-      <FindNewPlaces />
       <WeatherCard />
 
       <h1 className="text-2xl font-bold text-center">
         Місця, які можна відвідати:
       </h1>
+      
 
       <InterestingPlaces places={places} />
 
