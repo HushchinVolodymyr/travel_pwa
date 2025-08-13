@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Church of Saint Lazarus",
+    "category": "Historical / Religious",
+    "description": "A 9th-century Byzantine church built over the tomb of St. Lazarus, featuring ornate iconostasis and the Tomb of Lazarus below. :contentReference[oaicite:1]{index=1}",
+    "images": [
+      {
+        "url": "https://mycyprustravel.com/wp-content/uploads/2018/03/St-Lazarus-Church-Larnaca-1.jpg",
+        "alt": "Church of Saint Lazarus"
+      },
+      {
+        "url": "https://live.staticflickr.com/7892/47220228431_31066b6ca3_b.jpg",
+        "alt": "Church of Saint Lazarus"
+      }
+
+    ]
+  },
+  {
+    "name": "Byzantine Museum (next to St Lazarus)",
+    "category": "Museum",
+    "description": "Houses religious icons, relics, and artifacts of Byzantine heritage. :contentReference[oaicite:2]{index=2}",
+    "images": [
+      {
+        "url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/72000/72739-Larnaca-Fort.jpg",
+        "alt": "Byzantine Museum (next to St Lazarus)"
+      },
+      {
+        "url": "https://larnakaregion.com/storage/app/media/explore/ANCIENT%20WONDERS/SMALL%20MEDIEVAL%20FORT%202.jpeg",
+        "alt": "Byzantine Museum (next to St Lazarus)"
+      }
+    
+    ]
+  },
+  {
+    "name": "Larnaca Castle (Medieval Castle)",
+    "category": "Historical / Museum",
+    "description": "A medieval fortress built in the late 14th century, later used as a prison; now houses the Medieval Museum and an open-air theatre. :contentReference[oaicite:3]{index=3}",
+    "images": [
+      {
+        "url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/72000/72739-Larnaca-Fort.jpg",
+        "alt": "Larnaca Castle (Medieval Castle)"
+      },
+      {
+        "url": "https://larnakaregion.com/storage/app/media/explore/ANCIENT%20WONDERS/SMALL%20MEDIEVAL%20FORT%202.jpeg",
+        "alt": "Larnaca Castle (Medieval Castle)"
+      }
+    
+    ]
+  },
+  {
+    "name": "Pierides Museum",
+    "category": "Museum",
+    "description": "Cyprus’s oldest private museum founded by Demetrios Pierides, with collections from Neolithic to Byzantine eras. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "name": "Ancient Kition archaeological site",
+    "category": "Archaeological",
+    "description": "Remnants of the ancient Mycenaean trading port of Kition beneath modern Larnaca. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "name": "Kamares Aqueduct",
+    "category": "Historical",
+    "description": "An 18th-century Ottoman aqueduct that once supplied the city’s water; now a picturesque ruin. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "name": "Larnaca Salt Lake",
+    "category": "Natural / Wildlife",
+    "description": "A network of salt lakes west of the city home to thousands of migratory flamingoes in winter; an important Ramsar site. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "name": "Hala Sultan Tekke",
+    "category": "Religious / Natural",
+    "description": "A significant Ottoman-era Muslim shrine located on the shore of Larnaca Salt Lake. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "name": "Turkish Quarter",
+    "category": "Cultural / Historic",
+    "description": "A scenic neighborhood with narrow streets and restored Ottoman houses hosting shops, cafés, and handicrafts. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "name": "Kyriazis Medical Museum",
+    "category": "Museum / Quirky",
+    "description": "Housed in an 18th-century house, exhibits antique medical instruments and curious artifacts from Larnaca’s medical history. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "name": "Larnaca Yacht Marina",
+    "category": "Leisure / Scenic",
+    "description": "A lovely spot for sunrise or sunset walks by the sea, ideal for a romantic or peaceful stroll. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "name": "Finikoudes Promenade & Beach",
+    "category": "Leisure / Beach",
+    "description": "Palm-lined promenade and beach central to city life—great for walks, sunbathing, and café-hopping. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "name": "Mackenzie Beach",
+    "category": "Leisure / Beach",
+    "description": "Sandy beach just outside the city, offering a calmer, more spacious atmosphere than Finikoudes. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "name": "Dhekelia Beach",
+    "category": "Leisure / Beach",
+    "description": "Beach near hotels further along the coast—less crowded and more relaxing. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "name": "Zenobia Wreck (Shipwreck)",
+    "category": "Adventure / Diving",
+    "description": "A 1980s shipwreck off Larnaca turned world-class diving site, accessible for divers and via glass-bottom tours. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "name": "Larnaca Municipal Theater",
+    "category": "Cultural",
+    "description": "A venue for performances and cultural events in the city. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "name": "Europe Square",
+    "category": "Public Spaces",
+    "description": "A civic square offering cultural atmosphere and urban charm. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "name": "Larnaca Marine Observatory / Planetarium",
+    "category": "Educational",
+    "description": "A place for stargazing and astronomical education in Larnaca. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "name": "Salt & Pepper Museum",
+    "category": "Museum / Quirky",
+    "description": "A novelty museum celebrating the ubiquitous table items—salt and pepper. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "name": "Larnaca Synagogue",
+    "category": "Religious / Heritage",
+    "description": "Historic synagogue reflecting the Jewish heritage of Larnaca. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "name": "Armenian Genocide Memorial",
+    "category": "Monument / Memorial",
+    "description": "Located on the seafront, marks the landing site of Armenian refugees and symbolizes gratitude between communities. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "name": "Panagia Faneromeni Church",
+    "category": "Religious",
+    "description": "A local church of cultural and architectural interest. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "name": "St Mary of Graces Catholic Church",
+    "category": "Religious",
+    "description": "Roman Catholic church serving the local Catholic community. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "name": "Choirokoitia Archaeological Site",
+    "category": "Archaeological / UNESCO",
+    "description": "Neolithic settlement site of Cyprus, reflecting ancient life on the island. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "name": "Stavrovouni Monastery",
+    "category": "Religious / Historic",
+    "description": "One of the oldest monasteries in the world, founded in the 4th century by Saint Helena; located atop a hill in Larnaca District. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "name": "Pano Lefkara Village",
+    "category": "Cultural / Day Trip",
+    "description": "Picturesque mountain village famous for lace-making and silver filigree—recognized among Europe’s most beautiful towns. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "name": "Pervolia Lighthouse",
+    "category": "Landmark / Scenic",
+    "description": "A coastal lighthouse offering views and a maritime atmosphere. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "name": "Panagia Chrisopolitissa Church",
+    "category": "Religious",
+    "description": "Historic Orthodox church in the region with architectural interest. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "name": "Port of ancient Kition",
+    "category": "Historical / Archaeological",
+    "description": "Remains of the ancient port of Kition, reflecting the city’s maritime past. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "name": "Finikoudes Boulevard",
+    "category": "Shopping / Leisure",
+    "description": "The main pedestrian street for shopping, dining and strolling. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "name": "Ermou Street",
+    "category": "Shopping",
+    "description": "A street lined with shops—great for local shopping in Larnaca. :contentReference[oaicite:31]{index=31}"
+  }
+]
