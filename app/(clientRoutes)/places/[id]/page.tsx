@@ -12,9 +12,9 @@ interface PlacePageProps {
     };
 }
 
-export default function PlacePage({ params }: PlacePageProps) {
+export default function PlacePage({ params }: { params: { id: string } }) {
     const router = useRouter();
-    const { id } = params;
+    const id = params.id;
 
     const place: IPlace | undefined = places.find((place) => place.id === parseInt(id));
 
