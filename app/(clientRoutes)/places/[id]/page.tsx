@@ -5,18 +5,17 @@ import { IPlace } from "@/types/interfaces/i-place";
 import { Card, CardHeader, CardBody, CardFooter, Image, Button } from "@heroui/react";
 import { ChevronLeft, MapPinned } from "lucide-react";
 import { useRouter } from "next/navigation";
+import { use } from "react";
 
 interface PlacePageProps {
-    params: {
-        id: string;
-    };
+  params: Promise<{ id: string }>; 
 }
 
-export default function PlacePage({ params }: PlacePageProps) {
+export default async function PlacePage({ params }: PlacePageProps) {
     const router = useRouter();
-    const { id } = params;
+    const { id } = use(params);
 
-    const place: IPlace | undefined = places.find((place) => place.id === parseInt(id));
+    const place: IPlace | undefined = places.find((p) => p.id === parseInt(id));
 
     if (!place) {
         return <div>Місце не знайдено</div>;
