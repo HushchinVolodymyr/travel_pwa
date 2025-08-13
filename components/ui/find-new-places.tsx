@@ -1,10 +1,8 @@
 "use client";
 
-import { autocomplete } from "@/utils/googleApi";
-import { PlaceAutocompleteResult } from "@googlemaps/google-maps-services-js";
 import { Button } from "@heroui/button";
 import { Input } from "@heroui/input";
-import { FC, useEffect, useState } from "react";
+import { FC} from "react";
 import { IoSearch } from "react-icons/io5";
 
 

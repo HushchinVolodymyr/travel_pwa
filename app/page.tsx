@@ -1,7 +1,5 @@
-import { ThemeSwitch } from "@/components/theme-switch";
 import FindNewPlaces from "@/components/ui/find-new-places";
 import InterestingPlaces from "@/components/ui/interesting-places";
-import UICard from "@/components/ui/UICard";
 import WeatherCard from "@/components/ui/weather-card";
 import places from "@/public/data/places.json";
 

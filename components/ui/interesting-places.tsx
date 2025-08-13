@@ -2,7 +2,7 @@
 
 import { IPlace } from "@/types/interfaces/i-place";
 import UICard from "./UICard";
-import { use, useEffect } from "react";
+import { useEffect } from "react";
 import useGeolocation from "@/hooks/useGeolocation";
 
 
