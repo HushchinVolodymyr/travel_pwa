@@ -8,7 +8,7 @@ import { useRouter } from "next/navigation";
 import { use } from "react";
 
 interface PlacePageProps {
-  params: Promise<{ id: string }>; 
+    params: Promise<{ id: string }>;
 }
 
 export default async function PlacePage({ params }: PlacePageProps) {
