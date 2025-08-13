@@ -224,6 +224,12 @@
     "name": "Муніципальний театр Ларнаки",
     "category": "Культурне",
     "description": "Театр для вистав та культурних заходів. Проводяться концерти, вистави та фестивалі, що сприяє розвитку культурного життя міста.",
+    "images":[
+      {
+        "url": "https://mindtrip.ai/cdn-cgi/image/format=webp,w=1200/https://iorigin.mindtrip.ai/attractions/4124/7dd9/032f/8752/3f84/76bb/1a9b/b6b3",
+        "alt": "Муніципальний театр Ларнаки"
+      }
+    ],
     "location": "https://www.google.com/maps/place/WJ8G%2BCHC+Municipal+Theater,+Leonida+Kioupi,+Larnaka+6021,+%D0%9A%D0%B8%D0%BF%D1%80/@34.9160241,33.6239697,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082afaf32c615:0xfceabf5700ff20cf!8m2!3d34.9160916!4d33.6265818!16s%2Fg%2F11b8tftzpz?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
   
   },
@@ -345,10 +351,6 @@
     "category": "Відпочинок",
     "description": "Головна пішохідна вулиця для прогулянок, покупок і відпочинку. Тут розташовані кафе, ресторани та магазини, що робить її серцем міського життя.",
     "images":[
-      {
-        "url": "https://fs.tonkosti.ru/aa/mi/aamiey8k2i0o8840880cw0kc4.jpg",
-        "alt": "Бульвар Фінікудес"
-      },
       {
         "url": "https://www.pizzatravel.com.ua/uploads/2013/12739.jpg",
         "alt": "Бульвар Фінікудес"
