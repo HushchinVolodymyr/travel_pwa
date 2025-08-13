@@ -1,12 +1,9 @@
-
 import InterestingPlaces from "@/components/ui/interesting-places";
 import WeatherCard from "@/components/ui/weather-card";
 import places from "@/public/data/places.json";
-
+import HomeButton from "@/components/ui/home-button";
 
 export default function Home() {
-
-
   return (
     <div className="flex flex-col gap-4 justify-center">
       <div className="p-1">
@@ -19,13 +16,13 @@ export default function Home() {
       </div>
       <WeatherCard />
 
+      <HomeButton />
+
       <h1 className="text-2xl font-bold text-center">
         Місця, які можна відвідати:
       </h1>
-      
 
       <InterestingPlaces places={places} />
-
     </div>
   );
 }

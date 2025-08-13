@@ -1,7 +1,7 @@
-import * as React from "react";
-import * as LucideIcons from "lucide-react";
+import * as React from 'react';
+import * as LucideIcons from 'lucide-react';
 
-import { IconSvgProps } from "@/types";
+import { IconSvgProps } from '@/types';
 
 // Export all Lucide icons for easy access
 export { LucideIcons };

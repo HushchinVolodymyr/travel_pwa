@@ -68,14 +68,14 @@
     "name": "Давній Кітіон",
     "category": "Археологія",
     "description": "Руїни стародавнього мікенського торгового порту Кітіон, який існував ще у II тисячолітті до н.е. Тут збереглися залишки стародавніх храмів та оборонних споруд. Місце цікаве для дослідників історії та туристів, які цікавляться археологією.",
-    "images":[
+    "images": [
       {
         "url": "https://larnakaregion.com/storage/app/media/explore/ARCHAEOLOGICAL%20SITES/KITION/SMALL%20KITION%20SITE%201.jpeg",
-        "alt":"Музей Пієрідіса"
+        "alt": "Музей Пієрідіса"
       },
       {
         "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a0/6c/80/caption.jpg?w=800&h=-1&s=1",
-        "alt":"Давній Кітіон"
+        "alt": "Давній Кітіон"
       }
     ],
     "location": "https://www.google.com/maps/place/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D0%B9+%D0%9A%D0%B8%D1%82%D0%B8%D0%BE%D0%BD/@34.923194,33.6279188,899m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14de281d69992753:0xd8438b74e3bdeb47!8m2!3d34.9231896!4d33.6304937!16s%2Fg%2F1tkp2b3y?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
@@ -85,7 +85,7 @@
     "name": "Акведук Камарес",
     "category": "Історичне",
     "description": "Османський акведук XVIII століття, який колись постачав воду до міста. Вражає інженерною точністю будівництва та архітектурною красою. Сьогодні є популярним туристичним об’єктом для прогулянок і фотографій.",
-    "images":[
+    "images": [
       {
         "url": "https://see-sights.com/wp-content/uploads/2024/07/28-Kamares_Aqueduct_Larnaca.jpg",
         "alt": "Акведук Камарес"
@@ -102,7 +102,7 @@
     "name": "Ларнацьке солоне озеро",
     "category": "Природне",
     "description": "Система солоних озер на околицях Ларнаки. Взимку озеро приваблює тисячі фламінго та інших водоплавних птахів. Це чудове місце для спостереження за природою, піших прогулянок і фотографій.",
-    "images":[
+    "images": [
       {
         "url": "https://kidpassage.com/images/activity/images/ozero-larnaka.jpg",
         "alt": "Ларнацьке солоне озеро"
@@ -113,14 +113,13 @@
       }
     ],
     "location": "https://www.google.com/maps/place/%D0%A1%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B7.+%D0%9B%D0%B0%D1%80%D0%BD%D0%B0%D0%BA%D0%B0/@34.8852456,33.6162191,7195m/data=!3m1!1e3!4m6!3m5!1s0x14e09d2cd0ccb527:0x13df5047beb49163!8m2!3d34.8857365!4d33.6147793!16s%2Fm%2F025yrc7?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 8,
     "name": "Хала Султан Текке",
     "category": "Релігійне",
     "description": "Мусульманське святилище османської епохи, розташоване на березі солоного озера. Відоме як місце паломництва та важливий релігійний центр для мусульман Кіпру. Архітектура вражає куполами та мінаретами, а територія оточена садом.",
-    "images":[
+    "images": [
       {
         "url": "https://www.kiprguru.com/wp-content/uploads/2021/12/hala_sultan_1067_01.jpg",
         "alt": "Хала Султан Текке"
@@ -131,28 +130,26 @@
       }
     ],
     "location": "https://www.google.com/maps/place/%D0%9C%D0%B5%D1%87%D0%B5%D1%82%D1%8C+%D0%A5%D0%B0%D0%BB%D0%B0+%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD+%D0%A2%D0%B5%D0%BA%D0%BA%D0%B5/@34.8855362,33.6074677,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e09cd6d023133d:0xbead1be50e8b041f!8m2!3d34.8855362!4d33.6100426!16zL20vMGd0dHJo?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 9,
     "name": "Турецький квартал",
     "category": "Культурне",
     "description": "Район із вузькими вулицями та відреставрованими османськими будинками. Тут можна побачити традиційні архітектурні елементи, маленькі кав’ярні та майстерні місцевих ремісників. Ідеальне місце для прогулянок та занурення в атмосферу історичної Ларнаки.",
-    "images":[
+    "images": [
       {
         "url": "https://images.myguide-cdn.com/cyprus/companies/from-paphos-roundtrip-troodos-nicosia-larnaca/large/from-paphos-roundtrip-troodos-nicosia-larnaca-4149964.jpg",
         "alt": "Турецький квартал"
       }
     ],
     "location": "https://www.google.com/maps/place/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9+%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9+%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB+%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0/@34.9107377,33.6344676,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082a32af13daf:0x25347b537c265695!8m2!3d34.9107377!4d33.6370425!16s%2Fg%2F11f08hfnnb?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 10,
     "name": "Медичний музей Кіріазіса",
     "category": "Музей",
     "description": "Музей у будинку XVIII століття з колекцією старовинних медичних інструментів та обладнання. Дозволяє ознайомитися з історією медицини на Кіпрі та побачити унікальні експонати, які свідчать про розвиток медичних практик.",
-    "images":[
+    "images": [
       {
         "url": "https://cyprusbutterfly.com.cy/images/all/860x/7e24e60a1db3e0923e1aa6f46ce50ca3.jpg",
         "alt": "Медичний музей Кіріазіса"
@@ -163,14 +160,13 @@
       }
     ],
     "location": "https://www.google.com/maps/place/Kyriazis+Medical+Museum/@34.9130908,33.6319299,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082a362202669:0x18af35fbda53dade!8m2!3d34.9130908!4d33.6345048!16s%2Fm%2F0n4bcjz?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 12,
     "name": "Променад і пляж Фінікудес",
     "category": "Відпочинок",
     "description": "Пальмова набережна з піщаним пляжем, кафе, ресторанами та магазинами. Центр міського життя, популярне місце для прогулянок, спорту та відпочинку на сонці. Ідеальне місце для туристів і сімей з дітьми.",
-    "images":[
+    "images": [
       {
         "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/0f/90/d2/finikoudes-beach.jpg",
         "alt": "Променад і пляж Фінікудес"
@@ -181,14 +177,13 @@
       }
     ],
     "location": "https://www.google.com/maps/place/Beach+Tennis+Courts+Foinikoudes/@34.9150558,33.6357214,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e083104a5f06d1:0x5aee275999c4247f!8m2!3d34.9150558!4d33.6382963!16s%2Fg%2F11kr64p5z4?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 13,
     "name": "Пляж Маккензі",
     "category": "Відпочинок",
     "description": "Піщаний пляж за межами міста з більш спокійною атмосферою. Популярний серед любителів водних видів спорту, серфінгу та дайвінгу. Тут багато кафе та барів на пляжі, що робить його привабливим для молоді.",
-    "images":[
+    "images": [
       {
         "url": "https://www.visitcyprus.com/wp-content/uploads/2015/11/605a5b56c8e1f29c51548653d6f1dfc8.jpg",
         "alt": "Пляж Маккензі"
@@ -199,14 +194,13 @@
       }
     ],
     "location": "https://www.google.com/maps/place/Mackenzie+Beach/@34.8892575,33.6347616,898m/data=!3m1!1e3!4m6!3m5!1s0x14e082dd196f20af:0x6f185f4e387f2a70!8m2!3d34.887223!4d33.6369843!16s%2Fg%2F1q5blty4y?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 14,
     "name": "Затонуле судно Зенобія",
     "category": "Пригоди",
     "description": "Корабель, що затонув у 1980-х роках, перетворений на популярне місце для дайвінгу. Це один із найкращих об’єктів для підводних досліджень у Середземному морі, де можна побачити залишки корабля та морське життя.",
-    "images":[
+    "images": [
       {
         "url": "https://traveltheworld.com.ua/wp-content/uploads/2016/08/Zatonuvshij-korabl-Zenobiya-680x454.jpg",
         "alt": "Затонуле судно Зенобія"
@@ -217,28 +211,26 @@
       }
     ],
     "location": "https://www.google.com/maps/place/Zenobia+Wreck+Diving+Site/@34.8953395,33.6331358,5541m/data=!3m1!1e3!4m6!3m5!1s0x14e0835dbcc0ede5:0x9b1c9b9ee608cd36!8m2!3d34.8916667!4d33.6516667!16s%2Fg%2F11t50gz6tj?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 15,
     "name": "Муніципальний театр Ларнаки",
     "category": "Культурне",
     "description": "Театр для вистав та культурних заходів. Проводяться концерти, вистави та фестивалі, що сприяє розвитку культурного життя міста.",
-    "images":[
+    "images": [
       {
         "url": "https://mindtrip.ai/cdn-cgi/image/format=webp,w=1200/https://iorigin.mindtrip.ai/attractions/4124/7dd9/032f/8752/3f84/76bb/1a9b/b6b3",
         "alt": "Муніципальний театр Ларнаки"
       }
     ],
     "location": "https://www.google.com/maps/place/WJ8G%2BCHC+Municipal+Theater,+Leonida+Kioupi,+Larnaka+6021,+%D0%9A%D0%B8%D0%BF%D1%80/@34.9160241,33.6239697,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082afaf32c615:0xfceabf5700ff20cf!8m2!3d34.9160916!4d33.6265818!16s%2Fg%2F11b8tftzpz?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 16,
     "name": "Площа Європи",
     "category": "Громадський простір",
     "description": "Центральна площа міста з культурною атмосферою. Тут проходять виставки, ринки та святкові заходи. Площа є популярним місцем зустрічей для місцевих мешканців та туристів.",
-    "images":[
+    "images": [
       {
         "url": "https://cyprusbutterfly.com.cy/assets/cache_image/images/zz/b4eba7c8dd93ac4ab2f3783488af0dae_0x0_977.jpg",
         "alt": "Площа Європи"
@@ -249,14 +241,13 @@
       }
     ],
     "location": "https://www.google.com/maps/place/Europe+Square/@34.9170334,33.6351961,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082a1a55447cb:0xd918f577f0c6fc44!8m2!3d34.9170334!4d33.637771!16s%2Fg%2F1tjpgzw5?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 17,
     "name": "Музей солі та перцю",
     "category": "Музей",
     "description": "Унікальний музей, присвячений наборам солі та перцю зі всього світу. Експозиції включають цікаві дизайнерські колекції, історії походження спецій та інтерактивні експонати.",
-    "images":[
+    "images": [
       {
         "url": "https://vkcyprus.com/images/2019/Salt_and_Pepper_museum_3.JPG",
         "alt": "Музей солі та перцю"
@@ -273,21 +264,20 @@
     "name": "Синагога Ларнаки",
     "category": "Релігійне",
     "description": "Історична синагога, що відображає єврейську спадщину міста. Відкрита для відвідувачів, які цікавляться історією та культурою єврейської громади Ларнаки.",
-    "images":[
+    "images": [
       {
         "url": "https://rabbinatecyprus.org/wp-content/uploads/2022/08/WhatsApp-Image-2023-03-02-at-10.59.14.jpeg",
         "alt": "Синагога Ларнаки"
       }
     ],
     "location": "https://www.google.com/maps/place/Great+Synagogue+of+Cyprus/@34.9126014,33.6309606,898m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082bab3605c83:0xeb65124cfdb81a33!8m2!3d34.9126014!4d33.6326792!16s%2Fm%2F026_605?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 19,
     "name": "Пам’ятник геноциду вірмен",
     "category": "Пам’ятник",
     "description": "Відзначає місце прибуття вірменських біженців на Кіпр і символізує вдячність між громадами. Пам’ятник є важливим історичним та культурним символом.",
-    "images":[
+    "images": [
       {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Larnaca_monument.jpg/1280px-Larnaca_monument.jpg",
         "alt": "Пам’ятник геноциду вірмен"
@@ -300,7 +290,7 @@
     "name": "Церква Панагія Фанеромені",
     "category": "Релігійне",
     "description": "Місцева церква з культурною та архітектурною цінністю. Вражає старовинними фресками та іконами, а також своєю історією, яка тісно пов’язана з розвитком Ларнаки.",
-    "images":[
+    "images": [
       {
         "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a1/08/36/2019.jpg?w=1200&h=-1&s=1",
         "alt": "Церква Панагія Фанеромені"
@@ -311,28 +301,26 @@
       }
     ],
     "location": "https://www.google.com/maps/place/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%98%D0%BA%D0%BE%D0%BD%D1%8B+%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8+%D0%A4%D0%B0%D0%BD%D0%B5%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8/@34.9109659,33.617552,3592m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082b089bd8aad:0xc4e72e26f4f223ba!8m2!3d34.9109663!4d33.6278517!16s%2Fg%2F1tt7j61y?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 21,
     "name": "Католицька церква Святої Марії Благодатей",
     "category": "Релігійне",
     "description": "Римо-католицька церква, що обслуговує місцеву громаду. Архітектура відображає європейський стиль із бароковими та готичними елементами.",
-    "images":[
+    "images": [
       {
         "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/25/3f/5b/1.jpg?w=1200&h=-1&s=1",
         "alt": "Католицька церква Святої Марії Благодатей"
       }
     ],
     "location": "https://www.google.com/maps/place/St+Mary+of+Graces+Catholic+Church+-+Terra+Santa/@34.9231988,33.6158915,3592m/data=!3m2!1e3!4b1!4m6!3m5!1s0x14e082a82af3a28f:0x1f3dc2537b6a37da!8m2!3d34.9231992!4d33.6261912!16s%2Fg%2F1tdlr9v5?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 22,
     "name": "Маяк Перволья",
     "category": "Пам’ятка",
     "description": "Приморський маяк із мальовничими видами на море та околиці. Відомий серед фотографів і туристів за чудові панорами заходу сонця.",
-    "images":[
+    "images": [
       {
         "url": "https://vkcyprus.com/media/k2/items/cache/ac8f8bbad7010ba0199dff4cd219ea29_XL.jpg",
         "alt": "Маяк Перволья"
@@ -343,14 +331,13 @@
       }
     ],
     "location": "https://www.google.com/maps/place/Perivolia+Lighthouse/@34.9027145,33.6030612,9872m/data=!3m1!1e3!4m6!3m5!1s0x14e09b099bf20251:0x4acd7f9f8c50187f!8m2!3d34.8170815!4d33.6030083!16s%2Fg%2F11tnvvpfm2?entry=ttu&g_ep=EgoyMDI1MDgxMC4wIKXMDSoASAFQAw%3D%3D"
-  
   },
   {
     "id": 23,
     "name": "Бульвар Фінікудес",
     "category": "Відпочинок",
     "description": "Головна пішохідна вулиця для прогулянок, покупок і відпочинку. Тут розташовані кафе, ресторани та магазини, що робить її серцем міського життя.",
-    "images":[
+    "images": [
       {
         "url": "https://www.pizzatravel.com.ua/uploads/2013/12739.jpg",
         "alt": "Бульвар Фінікудес"

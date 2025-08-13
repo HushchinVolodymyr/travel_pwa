@@ -20,11 +20,17 @@ export async function GET(request: Request) {
   try {
     const response = await fetch(url);
     if (!response.ok) {
-      return NextResponse.json({ error: 'Failed to fetch weather' }, { status: response.status });
+      return NextResponse.json(
+        { error: 'Failed to fetch weather' },
+        { status: response.status }
+      );
     }
     const data = await response.json();
     return NextResponse.json(data);
   } catch (error) {
-    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+    return NextResponse.json(
+      { error: 'Internal server error' },
+      { status: 500 }
+    );
   }
 }
